@@ -10,4 +10,8 @@ cd "mongodb/Ubuntu 22.04 x64"
 ```
 sudo dpkg -i mongodb-org-server_8.0.0_amd64.deb
 ```
+```
+sudo apt --fix-broken install
+```
+
 ## done!!
