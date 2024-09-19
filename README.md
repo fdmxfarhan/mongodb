@@ -1,5 +1,6 @@
 # mongodb
 mongodb installation packages for ubuntu
+https://www.mongodb.com/try/download/database-tools
 ## mongoDB installation:
   1. clone the repo
   ```
